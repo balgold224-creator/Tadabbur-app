@@ -1,1 +1,9 @@
-{ "version": "2.23" }
+{
+  "version": "2.26",
+  "apk": "https://tadabbur-update.balgold224.workers.dev/tadabbur.apk",
+  "notes": {
+    "fa": ["دکمه‌ی به‌روزرسانی بهتر شد و چند لینک دانلود دارد.", "تنظیمات صوت (قاری، تکرار، سرعت) به سه‌نقطه‌ی هر سوره آمد."],
+    "en": ["The update button is more reliable and offers several download links.", "Audio settings (reciter, repeat, speed) are now in each surah's three-dot menu."],
+    "ar": ["زر التحديث أصبح أوثق ويوفّر عدة روابط تنزيل.", "إعدادات الصوت (القارئ، التكرار، السرعة) في قائمة النقاط الثلاث لكل سورة."]
+  }
+}
